@@ -37,7 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]" styles="text-align: justify">
-        Hello, I'm Michael Guzik, a passionate full-stack developer with a strong foundation in MongoDB, Express, Vue.js, Nuxt.js, Node.js, Tailwind CSS, React.js, Next.js, Bootstrap, and more.
+        Hello, I'm Feranmi Oybeola, a passionate full-stack developer with a strong foundation in MongoDB, Express, Vue.js, Nuxt.js, Node.js, Tailwind CSS, React.js, Next.js, Bootstrap, and more.
         <br />
         <strong>Why Web Development?</strong>
         <br />
